@@ -1,0 +1,2 @@
+DATA_FOLDER="data"
+ARTIFACTS_FOLDER="artifacts"
