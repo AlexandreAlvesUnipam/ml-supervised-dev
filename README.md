@@ -9,3 +9,15 @@
 ### Descrição
 
 Repositório criado para uso do Codespaces nas aulas de IA.
+
+### Execução
+
+- Instale a extensão do Jupyter
+- Crie um ambiente python:
+```python3 -m venv [nome_do_seu_ambiente]```
+- Ative o ambiente criado:
+```source [nome_do_seu_ambiente]/bin/activate```
+- Instale os requirements:
+```pip install -r requirements.txt```
+- Crie um arquivo com a extensão ".ipynb"
+- No canto superior direito do jupyter notebook, selecione o kernel (seu ambiente python)
