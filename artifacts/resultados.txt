@@ -1,16 +1,16 @@
-Resultados para Modelo 1 (MLP Simples):
-Acurácia: 0.9663
-Precisão: 0.9190
-Recall: 0.6495
+Resultados do Modelo 1 (MLP Simples):
+Acurácia: 0.9655
+Precisão: 0.8942
+Recall: 0.6608
 
-Resultados para Modelo 2 (MLP Profundo):
-Acurácia: 0.9663
-Precisão: 0.9268
-Recall: 0.6430
+Resultados do Modelo 2 (MLP Profundo):
+Acurácia: 0.9659
+Precisão: 0.9397
+Recall: 0.6277
 
-Resultados para Modelo 3 (Tanh + Dropout):
-Acurácia: 0.9590
-Precisão: 0.8744
-Recall: 0.5890
+Resultados do Modelo 3 (Tanh + Dropout):
+Acurácia: 0.9622
+Precisão: 0.9181
+Recall: 0.5963
 
-Melhor modelo: Modelo 1 (MLP Simples) com acurácia 0.9663
+Melhor modelo: Modelo 2 (MLP Profundo) com acurácia 0.9659
