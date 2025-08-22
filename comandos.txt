@@ -1,0 +1,7 @@
+Execute no terminal, nessa ordem
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.text
+
+para voltar num ambiente
+source (nomeambiente)/bin/activate
