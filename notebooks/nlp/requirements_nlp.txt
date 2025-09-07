@@ -4,3 +4,4 @@ openpyxl
 nltk
 transformers
 spacy
+torch
