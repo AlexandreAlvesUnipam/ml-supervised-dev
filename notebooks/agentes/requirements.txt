@@ -1,0 +1,6 @@
+langchain
+sentencepiece
+ipykernel
+python-dotenv
+langchain-mistralai
+pydantic
