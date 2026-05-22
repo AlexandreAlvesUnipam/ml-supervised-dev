@@ -1,0 +1,3 @@
+Cluster,Count,Average income,Average age,Average debt,Average credit score,Top industries,Top ethnicities,Top citizenship,Top zipcodes,ZIP median
+0,527,1183.25,32.24,5.04,2.78,"Energy (110), Materials (72), Industrials (50)","White (317), Black (105), Asian (48)","ByBirth (475), ByOtherMeans (44), Temporary (8)","0 (123), 100 (25), 120 (25)",144
+1,163,481.13,29.16,3.84,1.18,"Energy (36), Healthcare (18), Financials (17)","White (91), Black (33), Latino (21)","ByBirth (150), ByOtherMeans (13)","0 (22), 160 (14), 200 (11)",160

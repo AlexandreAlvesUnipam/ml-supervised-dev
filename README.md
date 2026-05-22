@@ -22,3 +22,13 @@ Repositório criado para uso do Codespaces nas aulas de IA.
     - Note que dentro dos requirements temos o ```ipykernel```, necessário para que os notebooks consigam escolher os ambientes python
 - Crie um arquivo com a extensão ".ipynb"
 - No canto superior direito do jupyter notebook, selecione o kernel (seu ambiente python)
+- Para executar a solução do Iris em linha de comando:
+```bash
+python3 src/iris_multiclass_pipeline.py
+```
+- Para executar a análise de clusterização do dataset de crédito:
+```bash
+python3 src/credito_cluster.py --name "Seu Nome Completo"
+```
+
+Os resultados e o relatório em PDF serão salvos em `artifacts/`.
